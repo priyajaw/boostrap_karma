@@ -1,0 +1,41 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+.aheto-logo img{
+    float:left;
+    margin-right: 10px;
+
+}
+.nac_center{
+    display: flex;
+    align-items: center!important;
+} */
+
+.font_nav{
+    font-family: nunito sans,Sans-serif;
+    font-size: 18px;
+    /* font-weight:600;  */
+    letter-spacing: .3px;
+}
+.a{
+    width: 100px;
+    height:auto;
+position: absolute;
+top:50px;
+right: 20px;
+}
+.ad{
+width: 200px;
+height: auto;
+}
+.message{
+    width:100px;
+    height: auto;
+ translate:10px 30px;
+}
+.girl{
+    width: 500px;
+    height: auto;
+}
